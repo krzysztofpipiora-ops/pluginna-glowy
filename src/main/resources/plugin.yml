@@ -1,0 +1,6 @@
+name: FirstKillHeads
+version: '${project.version}'
+main: pl.nazwadomeny.firstkillheads.FirstKillHeads
+api-version: '1.21'
+author: TwójNick
+description: Plugin dropiący unikalną głowę gracza po jego pierwszej śmierci w PvP.
