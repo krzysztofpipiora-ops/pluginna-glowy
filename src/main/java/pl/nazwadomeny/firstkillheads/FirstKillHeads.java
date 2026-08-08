@@ -168,6 +168,6 @@ public final class FirstKillHeads extends JavaPlugin implements Listener {
                 AttributeModifier.Operation.ADD_NUMBER,
                 EquipmentSlotGroup.HEAD
         );
-        meta.addAttributeModifier(Attribute.MAX_HEALTH, healthModifier);
+        meta.addAttributeModifier(Attribute.GENERIC_MAX_HEALTH, healthModifier);
     }
 }
